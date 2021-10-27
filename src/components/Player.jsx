@@ -5,9 +5,9 @@ import styled from "styled-components";
 let bboxw = 100;
 let bboxh = 100;
 let bboxt = 60;
-let bboxl = 520;
+let bboxl = 100;
 let color = "#ffffff";
-let label = 'SUV'
+let label = 'Detection Name'
 
 function Player() {
   return (
