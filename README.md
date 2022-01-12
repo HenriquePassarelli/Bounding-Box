@@ -1,6 +1,6 @@
 # Bounding Box
 
-This project purpose to show video detection through bounding boxes
+This project purpose to show video detection through bounding boxes, **company project - just a snippet**
 
 ![Screenshot from 2021-11-01 12-34-35](https://user-images.githubusercontent.com/71354731/139698210-0470d8e5-2f9f-4de1-98eb-1304f6e25bf1.png)
 
